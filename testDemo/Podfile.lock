@@ -1,0 +1,16 @@
+PODS:
+  - GJPodSpects (0.1.0)
+
+DEPENDENCIES:
+  - GJPodSpects
+
+SPEC REPOS:
+  https://git.coding.net/lynnik/GJPodSpects.git:
+    - GJPodSpects
+
+SPEC CHECKSUMS:
+  GJPodSpects: 90069f5678c63cf95fef43ba6bf5b8026156cd42
+
+PODFILE CHECKSUM: e35fab393116f61c7f16f15deb5a9c19b5bc7859
+
+COCOAPODS: 1.6.0.beta.1

@@ -1,0 +1,6 @@
+framework module GJPodSpects {
+  umbrella header "GJPodSpects-umbrella.h"
+
+  export *
+  module * { export * }
+}
