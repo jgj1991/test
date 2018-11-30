@@ -12,6 +12,6 @@
 @implementation UIView (printHello)
 
 - (void)printHello {
-    NSLog(@"%@",@"Hello World");
+    NSLog(@"%@",@"Hello World   ");
 }
 @end
